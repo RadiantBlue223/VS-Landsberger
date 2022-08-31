@@ -1,0 +1,8 @@
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\bin\Debug\Csharp Hello World.exe.config
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\bin\Debug\Csharp Hello World.exe
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\bin\Debug\Csharp Hello World.pdb
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\obj\Debug\Csharp Hello World.csproj.AssemblyReference.cache
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\obj\Debug\Csharp Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\obj\Debug\Csharp Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\obj\Debug\Csharp Hello World.exe
+C:\Users\Landsberger_Mike\source\repos\Csharp Hello World\Csharp Hello World\obj\Debug\Csharp Hello World.pdb
